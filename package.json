@@ -16,7 +16,7 @@
     "http-proxy": "^1.18.0",
     "http-proxy-middleware": "^1.0.3",
     "newrelic": "^6.5.0",
-    "webpack": "^4.42.1"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {}
 }
